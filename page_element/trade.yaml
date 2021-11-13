@@ -1,0 +1,15 @@
+favorite:
+  by: "css selector"
+  locator: ".trade-pair-list .favorite"
+trade-pair-list:
+  by: "css selector"
+  locator: ".trade-pair-list .e-dropdown-trigger .toggle"
+Favorites:
+  by: "css selector"
+  locator: ".symbol-list__search .e-tabs__nav>.e-tabs__nav-item:first-child"
+search:
+  by: "css selector"
+  locator: ".symbol-list__search .search-input"
+favorities-search-result:
+  by: "css selector"
+  locator: ".symbol-list__table .rows .symbol-name"

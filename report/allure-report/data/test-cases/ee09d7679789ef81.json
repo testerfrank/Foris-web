@@ -1,0 +1,120 @@
+{
+  "uid" : "ee09d7679789ef81",
+  "name" : "test_favorite",
+  "fullName" : "test_case.test_trade.TestTrade#test_favorite",
+  "historyId" : "08fde3a94a81d2cbb3d7dceddc6dd7a0",
+  "time" : {
+    "start" : 1636796999935,
+    "stop" : 1636797004086,
+    "duration" : 4151
+  },
+  "description" : "收藏”CRO/USDC“后，验证CRO/USDC在收藏列表中",
+  "descriptionHtml" : "<p>收藏”CRO/USDC“后，验证CRO/USDC在收藏列表中</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "main_header",
+    "time" : {
+      "start" : 1636796999925,
+      "stop" : 1636796999935,
+      "duration" : 10
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1636796884562,
+      "stop" : 1636796997604,
+      "duration" : 113042
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "收藏”CRO/USDC“后，验证CRO/USDC在收藏列表中",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "802f91772b338c5c",
+      "name" : "log",
+      "source" : "802f91772b338c5c.txt",
+      "type" : "text/plain",
+      "size" : 20704
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1636797004088,
+      "stop" : 1636797016310,
+      "duration" : 12222
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_trade"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTrade"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-BFACBSV6"
+  }, {
+    "name" : "thread",
+    "value" : "16992-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_trade"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee09d7679789ef81.json",
+  "parameterValues" : [ ]
+}

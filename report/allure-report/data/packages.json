@@ -1,0 +1,60 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_main_header",
+      "children" : [ {
+        "name" : "test_goto_market",
+        "uid" : "e3223d5e912dfd51",
+        "parentUid" : "4c7c6363ba59efa9e23dfc69b4869868",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636796997842,
+          "stop" : 1636796997960,
+          "duration" : 118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4c7c6363ba59efa9e23dfc69b4869868"
+    }, {
+      "name" : "test_market",
+      "children" : [ {
+        "name" : "test_goto_trade",
+        "uid" : "b48c7ee8e413d691",
+        "parentUid" : "986f652f35e49b39a9399d2bb482ed2c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636796997974,
+          "stop" : 1636796999756,
+          "duration" : 1782
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "986f652f35e49b39a9399d2bb482ed2c"
+    }, {
+      "name" : "test_trade",
+      "children" : [ {
+        "name" : "test_favorite",
+        "uid" : "ee09d7679789ef81",
+        "parentUid" : "3bef12ad6b0c6144b7fdd77df3afa804",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636796999935,
+          "stop" : 1636797004086,
+          "duration" : 4151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3bef12ad6b0c6144b7fdd77df3afa804"
+    } ],
+    "uid" : "3b2e467b921b0ea8d4803b9c79d92d0c"
+  } ]
+}

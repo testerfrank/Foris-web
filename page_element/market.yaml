@@ -1,0 +1,6 @@
+USDC:
+  by: "css selector"
+  locator: ".e-tabs__nav-container .e-tabs__nav-item:nth-child(4)"
+CRO/USDC:
+  by: "css selector"
+  locator: ".table__body>.tbody__row:nth-child(2)>td:last-child"

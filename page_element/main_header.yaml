@@ -1,0 +1,3 @@
+markets:
+  by: "css selector"
+  locator: '.main-header [href="/exchange/markets"]'
